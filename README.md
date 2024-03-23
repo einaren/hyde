@@ -1,2 +1,8 @@
-# hyde
-GitHub Pages with Jekyll, read-the-docs and Marpit
+# dokk
+
+dokk aims to be a turnkey environment for building documentation sites. 
+
+In the mix:
+
+- GitHub Pages with Jekyll
+- GitHub Codespaces
