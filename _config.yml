@@ -4,12 +4,12 @@ strict_front_matter: TRUE
 
 plugins:
   - jekyll-github-metadata
+  - jekyll-include-cache # required by Minimal Mistakes
 
-# Just-the-docs configuration https://just-the-docs.github.io/just-the-docs
+# Minimal Mistakes Jekyll theme configuration https://github.com/mmistakes/minimal-mistakes
 
-remote_theme: just-the-docs/just-the-docs
-
-color_scheme: dark
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 
 # Aux links for the upper right navigation
 aux_links:
